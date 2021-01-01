@@ -11,7 +11,7 @@ BlockMash tools
 <br>Edit file:
 <br><code> nano inst.php - Edit </code>
 <br><code> nano blocksmash.php - Edit </code>
-<br><code> Enter code ordered by me</code>
+<br><code> |•• Enter code ordered by me ••|</code>
 <br>Run :
 <br><code>php bot.php</code>
 <br>Enter!
