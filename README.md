@@ -1,12 +1,12 @@
 ![Terkey Termux Key](imtubasya.jpg)
 BlockMash tools
-<h3>I'am Tubasya<\h3>
+<h3>I'am Tubasya</h3>
 <br>Is a tool for Auto Referal!
 <h2>How to use</h2>
 <h3>Linux / Termux App:</h3>
 <br>Enter the below command in the terminal :
 <br><code>git clone https://github.com/Imtubasya/blocksmash</code>
-<br>cd blocksmash
+<br><code>cd blocksmash</code>
 </code>
 <br>Install php :
 <br><code>git clone https://github.com/Imtubasya/blocksmash</code>
