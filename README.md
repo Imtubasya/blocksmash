@@ -5,13 +5,12 @@ BlockMash tools
 <h2>How to use</h2>
 <h3>Linux / Termux App:</h3>
 <br>Enter the below command in the terminal :
-<br><code>git clone https://github.com/Imtubasya/blocksmash</code>
-<br><code>cd blocksmash</code>
-</code>
 <br>Install php :
 <br><code>git clone https://github.com/Imtubasya/blocksmash</code>
-<br>Edit :
-<br><code> nano inst.php & nano blocksmash.php </code>
+<br><code>cd blocksmash</code>
+<br>Edit file:
+<br><code> nano inst.php - Edit </code>
+<br><code> nano blocksmash.php - Edit </code>
 <br><code> Enter code ordered by me</code>
 <br>Run :
 <br><code>php bot.php</code>
@@ -19,7 +18,7 @@ BlockMash tools
 
 <h3>Windows :</h3>
 <br>Enter the below command in the CMD :
-<br><code>php bot.php</code>
+<br><code>php.exe bot.php</code>
 <br>Enter!!
 <br><br>
 <h3>MY CHANNEL :</h3>
